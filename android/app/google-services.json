@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1019858512279",
+    "project_id": "shop-maikel",
+    "storage_bucket": "shop-maikel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019858512279:android:17e1cbd5c6d83865807cd2",
+        "android_client_info": {
+          "package_name": "com.maikel.shop_maikel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1019858512279-5hijqdj480totkk55pkkihtpk7o3ccov.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvyk9ifzeCfkc142OZ3u5D59cUi5nxZYE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1019858512279-5hijqdj480totkk55pkkihtpk7o3ccov.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
